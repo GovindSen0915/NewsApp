@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-NewsApp_Demo_1/Pods-NewsApp_Demo_1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AnyErrorKit/AnyErrorKit.framework
+${BUILT_PRODUCTS_DIR}/FoxAPIKit/FoxAPIKit.framework
+${BUILT_PRODUCTS_DIR}/JSONParsing/JSONParsing.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/PaginationUIManager/PaginationUIManager.framework
+${BUILT_PRODUCTS_DIR}/ReactiveCocoa/ReactiveCocoa.framework
+${BUILT_PRODUCTS_DIR}/ReactiveSwift/ReactiveSwift.framework
+${BUILT_PRODUCTS_DIR}/SSPullToRefresh/SSPullToRefresh.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework
