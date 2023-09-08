@@ -37,7 +37,6 @@
 		7120D5D329F059AE00746575 /* coffee.json in Resources */ = {isa = PBXBuildFile; fileRef = 7120D5D229F059AE00746575 /* coffee.json */; };
 		7120D5D529F059B500746575 /* loader.json in Resources */ = {isa = PBXBuildFile; fileRef = 7120D5D429F059B500746575 /* loader.json */; };
 		719E6CB429F12FAF0057F8C3 /* SecondViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719E6CB329F12FAF0057F8C3 /* SecondViewModel.swift */; };
-		719E6CB629F14E310057F8C3 /* SearchBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719E6CB529F14E310057F8C3 /* SearchBarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,7 +72,6 @@
 		7120D5D229F059AE00746575 /* coffee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = coffee.json; sourceTree = "<group>"; };
 		7120D5D429F059B500746575 /* loader.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loader.json; sourceTree = "<group>"; };
 		719E6CB329F12FAF0057F8C3 /* SecondViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewModel.swift; sourceTree = "<group>"; };
-		719E6CB529F14E310057F8C3 /* SearchBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarViewController.swift; sourceTree = "<group>"; };
 		98B2951F24A585EC56EC61DE /* Pods_NewsApp_Demo_1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NewsApp_Demo_1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3F9D2DF18D52F45B1815E70 /* Pods-NewsApp_Demo_1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NewsApp_Demo_1.debug.xcconfig"; path = "Target Support Files/Pods-NewsApp_Demo_1/Pods-NewsApp_Demo_1.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -152,7 +150,6 @@
 			children = (
 				7120D58929F00F8900746575 /* ViewController.swift */,
 				7120D5C129F014B500746575 /* SecondViewController.swift */,
-				719E6CB529F14E310057F8C3 /* SearchBarViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -391,7 +388,6 @@
 				7120D5C929F0528D00746575 /* Loader.swift in Sources */,
 				7120D5A029F0104C00746575 /* NewsTableViewCell.swift in Sources */,
 				7120D5BA29F012B700746575 /* APIConfig.swift in Sources */,
-				719E6CB629F14E310057F8C3 /* SearchBarViewController.swift in Sources */,
 				7120D5A329F0105B00746575 /* NewsCellModel.swift in Sources */,
 				7120D5AD29F011BE00746575 /* ModelError.swift in Sources */,
 				7120D5BE29F012DC00746575 /* AuthHeaders.swift in Sources */,

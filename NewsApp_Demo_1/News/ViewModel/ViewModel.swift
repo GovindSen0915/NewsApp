@@ -85,8 +85,8 @@ extension ViewModel: ViewControllerDelegate {
         let params : [String:Any] = [
             "apiKey": self.apiKey,
             "q": "apple",
-            "from": "2023-07-30",
-            "to": "2023-07-30",
+//            "from": "2023-07-30",
+//            "to": "2023-07-30",
             "sortBy": "popularity"
         ]
         self.fetchNewsAction.apply(params).start()
