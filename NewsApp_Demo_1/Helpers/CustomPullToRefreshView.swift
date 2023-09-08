@@ -12,7 +12,7 @@ import PaginationUIManager
 
 class CustomPullToRefreshView: PullToRefreshContentView {
     
-    var lottieView: LottieAnimationView = .init(name: "loader")
+    var lottieView: LottieAnimationView = .init(name: "coffee")
     
     static var newInstance: CustomPullToRefreshView {
         return Bundle.main.loadNibNamed("CustomPullToRefreshView", owner: nil, options: nil)![0] as! CustomPullToRefreshView
@@ -49,7 +49,7 @@ class CustomPullToRefreshView: PullToRefreshContentView {
     }
  
     override func setState(_ state: PullToRefreshViewState, with view: PullToRefreshView!) {
-        self.showAnimation("loader", state)
+        self.showAnimation("coffee", state)
     }
     
     override func setPullProgress(_ pullProgress: CGFloat) {

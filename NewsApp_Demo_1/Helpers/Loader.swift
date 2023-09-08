@@ -25,7 +25,7 @@ class Loader {
         loaderView.accessibilityIdentifier = "Loader Identifier"
         loaderView.backgroundColor = .clear
         view.addSubview(loaderView)
-        let loader = LottieAnimationView(name: "loader")
+        let loader = LottieAnimationView(name: "coffee")
         loaderView.addSubview(loader)
         loader.contentMode = .scaleAspectFit
         loader.frame = loaderView.bounds
