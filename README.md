@@ -9,7 +9,7 @@ NewsApp Dark Mode
 https://github.com/GovindSen0915/NewsApp/assets/85836893/f0461fc9-250e-43a3-ab11-a0324870e9dd
 
 Home Screen |  Detail Screen | Home Screen |  Detail Screen
-:-------------------------:|:-------------------------:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img alt="Products list" src="Screenshots/NewsApp_Light_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode2.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode2.png">
 
 
