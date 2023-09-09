@@ -1,16 +1,20 @@
 # NewsApp
 
-NewsApp Light Mode  |  NewsApp Dark Mode
+NewsApp Light Mode  
+:-------------------------:
+https://github.com/GovindSen0915/NewsApp/assets/85836893/b7c1acd5-f92b-4e3d-a087-b5f57d2657a4
+
+NewsApp Dark Mode
+:-------------------------:
+https://github.com/GovindSen0915/NewsApp/assets/85836893/f0461fc9-250e-43a3-ab11-a0324870e9dd
+
+Home Screen |  Description Screen
 :-------------------------:|:-------------------------:
-https://github.com/GovindSen0915/NewsApp/assets/85836893/b7c1acd5-f92b-4e3d-a087-b5f57d2657a4|https://github.com/GovindSen0915/NewsApp/assets/85836893/f0461fc9-250e-43a3-ab11-a0324870e9dd
+<img alt="Products list" src="Screenshots/NewsApp_Light_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode2.png">
 
-Lottie Animation  |  Home Screen |  Description Screen
-:-------------------------:|:-------------------------:|:-------------------------:
-<img alt="Products List" src="Screenshots/Lottie_Animation_Light_Mode.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode2.png">
-
-Lottie Animation  |  Home Screen |  Description Screen
-:-------------------------:|:-------------------------:|:-------------------------:
-<img alt="Products List" src="Screenshots/Lottie_Animation_Dark_Mode.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode2.png">
+Home Screen |  Description Screen
+:-------------------------:|:-------------------------:
+<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode2.png">
 
 
 - This project is an iOS app written in Swift using UIKit and ReactiveSwift for handling asynchronous and reactive programming.
