@@ -1,5 +1,9 @@
 # NewsApp
 
+NewsApp Light Mode  |  NewsApp Dark Mode
+:-------------------------:|:-------------------------:
+/Users/govindsen/Desktop/NewsApp_Light_Mode.mov|/Users/govindsen/Desktop/NewsApp_Dark_Mode.mov
+
 Lottie Animation  |  Home Screen |  Description Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 <img alt="Products List" src="Screenshots/Lottie_Animation_Light_Mode.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode2.png">
