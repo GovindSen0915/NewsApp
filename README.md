@@ -1,8 +1,8 @@
 # NewsApp
 
 NewsApp Light Mode  |  NewsApp Dark Mode
-:-------------------------:
-https://github.com/GovindSen0915/NewsApp/assets/85836893/b7c1acd5-f92b-4e3d-a087-b5f57d2657a4
+:-------------------------:|:-------------------------:
+https://github.com/GovindSen0915/NewsApp/assets/85836893/b7c1acd5-f92b-4e3d-a087-b5f57d2657a4|https://github.com/GovindSen0915/NewsApp/assets/85836893/f0461fc9-250e-43a3-ab11-a0324870e9dd
 
 Lottie Animation  |  Home Screen |  Description Screen
 :-------------------------:|:-------------------------:|:-------------------------:
