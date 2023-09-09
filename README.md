@@ -1,5 +1,14 @@
 # NewsApp
 
+Lottie Animation  |  Home Screen |  Description Screen
+:-------------------------:|:-------------------------:
+<img alt="Products List" src="Screenshots/Lottie_Animation_Light_Mode.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Light_Mode2.png">
+
+Lottie Animation  |  Home Screen |  Description Screen
+:-------------------------:|:-------------------------:
+<img alt="Products List" src="Screenshots/Lottie_Animation_Dark_Mode.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode1.png">|<img alt="Products list" src="Screenshots/NewsApp_Dark_Mode2.png">
+
+
 - This project is an iOS app written in Swift using UIKit and ReactiveSwift for handling asynchronous and reactive programming.
 
 - The app's main functionality revolves around displaying news articles in a UITableView.
