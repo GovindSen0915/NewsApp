@@ -8,8 +8,11 @@
 import Foundation
 import FoxAPIKit
 
+
+
 public enum NewsRouter: BaseRouter {
-    case fetchNews(_ params: [String:Any])
+//    case fetchNews(_ params: [String:Any])
+    case fetchNews
     public var method: HTTPMethod {
         switch self {
         case .fetchNews:
@@ -26,7 +29,16 @@ public enum NewsRouter: BaseRouter {
     
     public var params: [String : Any] {
         switch self {
-        case .fetchNews(let params):
+//        case .fetchNews(let params):
+//            return params
+        case .fetchNews:
+            var params = [
+                "apiKey": "e7855adfcfbb4dd69e3fd27172d1aa4e",
+                "q": "apple",
+    //            "from": "2023-07-30",
+    //            "to": "2023-07-30",
+                "sortBy": "popularity"
+            ]
             return params
         }
     }

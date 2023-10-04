@@ -13,7 +13,7 @@ protocol ViewModelDelegate : AnyObject{
 }
 
 class ViewModel {
-    let apiKey = "e7855adfcfbb4dd69e3fd27172d1aa4e"
+//    let apiKey = "e7855adfcfbb4dd69e3fd27172d1aa4e"
     
     var loading = MutableProperty<Bool>(false)
     var disposable = CompositeDisposable([])
@@ -29,8 +29,8 @@ class ViewModel {
         self.setupObservers()
     }
     // MARK: Action
-    private let fetchNewsAction = Action {(params:[String:Any]) -> SignalProducer<[Article], ModelError> in
-        return Article.fetch(params: params)
+    private let fetchNewsAction = Action {() -> SignalProducer<[Article], ModelError> in
+        return Article.fetch()
     }
     
     // MARK: Observer
@@ -82,14 +82,14 @@ extension ViewModel: ViewControllerDelegate {
     }
 
     func getNews() {
-        let params : [String:Any] = [
-            "apiKey": self.apiKey,
-            "q": "apple",
-//            "from": "2023-07-30",
-//            "to": "2023-07-30",
-            "sortBy": "popularity"
-        ]
-        self.fetchNewsAction.apply(params).start()
+//        let params : [String:Any] = [
+//            "apiKey": self.apiKey,
+//            "q": "apple",
+////            "from": "2023-07-30",
+////            "to": "2023-07-30",
+//            "sortBy": "popularity"
+//        ]
+        self.fetchNewsAction.apply().start()
         if self.isFirstTimeLoaderEnabled {
             self.loading.value = true
             self.isFirstTimeLoaderEnabled = false
